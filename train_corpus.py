@@ -4,7 +4,6 @@
 # script for training dutch corpora into word embeddings
 #
 # @author Baran Polat
-# Inspired by Andreas Müller's german word embeddings
 
 import gensim
 import logging
