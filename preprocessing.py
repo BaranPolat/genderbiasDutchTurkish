@@ -3,7 +3,6 @@
 # script for preprocessing dutch corpora
 #
 # @author Baran Polat
-# Inspired by Andreas Müller's german word embeddings
 
 
 # Libraries
